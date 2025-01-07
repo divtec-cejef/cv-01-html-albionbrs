@@ -3,7 +3,15 @@
 
 
 
+body {
+  background-color: gray;
+}
+h1 {
+text-color:lightsteelblue;
+}
+
+
 
 p {
-color : lightblue;
+  color: lightblue;
 }
