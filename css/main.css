@@ -3,12 +3,12 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Fantasy;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    color: darkblue;
-    background-color: lightgray;
+    color: gray;
+    background-color: darkgray;
 }
 
 img {
