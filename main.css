@@ -6,7 +6,7 @@ header {
 
 
 body {
-  background-color: lightgray;
+  background-color: lightblue;
 }
 h1 {
 color:lightsteelblue;
@@ -15,5 +15,6 @@ color:lightsteelblue;
 
 
 p {
-  color: lightblue;
+ text-color: darkgray;
+  
 }
