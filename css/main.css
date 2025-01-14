@@ -1,27 +1,39 @@
-* {
-    box-sizing: border-box;
-}
 
-body {
-    font-family: Arial, Fantasy;
-    font-weight: 400;
-    font-size: 1.2rem;
-    line-height: 1.4;
-    color: gray;
-    background-color: darkgray;
-}
+* {    
+    box-sizing: border-box;    
+    text-align: center;}
 
+body { 
+    font-family: Arial, sans-serif; 
+      font-weight: 400; 
+      font-size: 1.2rem;
+     line-height: 1.4; 
+     color: darkblue; 
+    background-image: url('img/img-plage.jpg');}
+header {
+    border: 10px solid red;}
+footer {
+    max-width: 100%;}
 img {
     max-width: 100%;
     height: auto;
-    width: auto;
-}
-
+    width: auto;}
 a {
     color: deeppink;
-    text-decoration: none;
-}
-
-a:hover {
-    color: darkmagenta;
-}
+    text-decoration: none;}a:
+hover {
+    color: darkmagenta;}
+#text-color {
+    color: tomato;}
+#text-alignement { 
+    text-align: right;}
+#text-width {
+    width: 60px;}
+#text-em {
+    width: 3em;}
+#text-rem {
+    width: 1.5rem;}
+#font-face {
+    font-face: Calibri, sans-serif;}
+#text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);}
