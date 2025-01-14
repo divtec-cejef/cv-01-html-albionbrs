@@ -22,6 +22,7 @@ html {
 
 body {
   margin: 0;
+background-color: blue;
 }
 
 /**
@@ -30,6 +31,7 @@ body {
 
 main {
   display: block;
+
 }
 
 /**
@@ -40,6 +42,7 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+text-color: green;
 }
 
 /* Grouping content
